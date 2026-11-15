@@ -1,0 +1,3 @@
+Projeto de demonstração em XML para Pentaho PDI 9.4.
+Abra Projeto_Teste_Completo.xml pelo importador XML do Spoon. O Job referencia 01_Gerar_Dados_Teste.xml na mesma pasta.
+O Job executa 5 entradas. A transformação gera 10 linhas e as encaminha a um Dummy; não acessa rede nem banco nem grava arquivos.
