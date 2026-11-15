@@ -72,3 +72,4 @@ Uma opção mais simples para um repositório público é publicar o patch (`spo
 
    - ATENÇÃO: O código de modifição esta privado e uso contraolado em Laboratário a parte funcional você pode ver em imagens de Testes.
 
+- ENGENHEIRO DE DADOS E CIENTISTA DE DADOS Projeto: AML.
