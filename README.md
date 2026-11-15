@@ -1,4 +1,4 @@
-# Laboratório: importação de XML no Pentaho Data Integration
+# Laboratório: importação de XML no Pentaho Data Integration e IA. Versão Brasileira.
 
 Projeto experimental para testar o fluxo de importação de arquivos XML compatíveis com o Pentaho Data Integration (PDI) no Spoon.
 
@@ -69,3 +69,6 @@ Uma opção mais simples para um repositório público é publicar o patch (`spo
 - O mockup não comprova execução nem compatibilidade com um XML específico.
 - A versão do mecanismo continua sendo a distribuição base 9.4.0.0-343.
 - Teste a importação no seu ambiente e com uma cópia de segurança antes de usar jobs importantes.
+
+   - ATENÇÃO: O código de modifição esta privado e uso contraolado em Laboratário a parte funcional você pode ver em imagens de Testes.
+
